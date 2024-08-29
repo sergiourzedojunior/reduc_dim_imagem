@@ -1,4 +1,4 @@
-## README: Redução de Dimensionalidade de Imagens para Machine Learning
+## Redução de Dimensionalidade de Imagens para Machine Learning
 
 ### Introdução
 A redução de dimensionalidade é uma técnica essencial em Machine Learning e visão computacional, especialmente ao lidar com imagens. Essa técnica envolve a simplificação dos dados mantendo a maior quantidade possível de informações relevantes. No contexto de imagens, a redução de dimensionalidade pode ser implementada convertendo uma imagem colorida para níveis de cinza ou binarizando a imagem. Isso não só simplifica a imagem, mas também ajuda a reduzir o custo computacional, melhorar a eficiência do modelo e evitar o overfitting.
